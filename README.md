@@ -36,7 +36,7 @@
 
 ##màn hình danh mục xe
 
-![màn hình danh mục xe](docs/bai6.3danhmucxe.PNG)
+![màn hình danh mục xe](docs/bai6.4danhmucxe.PNG)
 
 
 
