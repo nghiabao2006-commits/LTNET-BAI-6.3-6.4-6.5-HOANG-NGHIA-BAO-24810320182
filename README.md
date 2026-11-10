@@ -10,3 +10,7 @@
 * **Tên đề bài:** BÀI 6.5: HỆ THỐNG QUẢN LÝ ĐẶT PHÒNG & DỊCH VỤ KARAOKE (KARAOKE MANAGEMENT SYSTEM)
 
 ## II. HÌNH ẢNH KẾT QUẢ CÁC MÀN HÌNH CHỨC NĂNG
+##Bài 6.3
+##màn hình dự án
+[màn hình dự án](docs/bai6.3duan.PNG)
+##màn hình 
