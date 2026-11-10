@@ -12,5 +12,5 @@
 ## II. HÌNH ẢNH KẾT QUẢ CÁC MÀN HÌNH CHỨC NĂNG
 ##Bài 6.3
 ##màn hình dự án
-[màn hình dự án](docs/bai6.3duan.PNG)
+![màn hình dự án](docs/bai6.3duan.PNG)
 ##màn hình 
