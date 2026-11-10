@@ -34,20 +34,28 @@
 
 ##Bài 6.4
 
+##màn hình tiếp nhận xe
+
+![màn hình tiếp nhận xe](docs/bai6.4tiepnhanxe.PNG)
+
 ##màn hình danh mục xe
 
 ![màn hình danh mục xe](docs/bai6.4danhmucxe.PNG)
 
+##màn hình phụ tùng
 
+![màn hình phụ tùng](docs/bai6.4phutung.PNG)
 
+##màn hình phiếu sửa chữa
 
+![màn hình sửa chữa](docs/bai6.4suachua.PNG)
 
+##Bài 6.5
 
+##màn hình sơ đồ phòng
 
+![màn hình sơ đồ phòng](docs/bai6.5sodophong.PNG)
 
+##màn hình hoá đơn
 
-
-
-
-
-
+![màn hình hoá đơn](docs/bai6.5hoadon.PNG)
