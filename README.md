@@ -16,4 +16,38 @@
 
 ![màn hình dự án](docs/bai6.3duan.PNG)
 
-##màn hình 
+##màn hình công việc
+
+![màn hình công việc](docs/bai6.3congviec.PNG)
+
+##màn hình kanban
+
+![màn hình kanban](docs/bai6.3kanban.PNG)
+
+##màn hình thành viên
+
+![màn hình thành viên](docs/bai6.3thanhvien.PNG)
+
+##màn hìn báo cáo
+
+![màn hình báo cáo](docs/bai6.3baocao.PNG)
+
+##Bài 6.4
+
+##màn hình danh mục xe
+
+![màn hình danh mục xe](docs/bai6.3danhmucxe.PNG)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
