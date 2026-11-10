@@ -48,7 +48,7 @@
 
 ##màn hình phiếu sửa chữa
 
-![màn hình sửa chữa](docs/bai6.4suachua.PNG)
+![màn hình phiếu sửa chữa](docs/bai6.4phieusuachua.PNG)
 
 ##Bài 6.5
 
